@@ -1,0 +1,20 @@
+1. XenonPy_descriptors_generation.py
+
+You can utilize this code to generate composition descriptors and structure descriptors for materials within the XenonPy toolkit. The input required is the mp-id of the material from the Materials Project (MP) database.
+
+2. ./Input/material_id.csv
+
+The file contains all the material mp-ids involved in the operations described in the paper.
+
+3. ./Output/P_Descriptor.csv
+
+The intermediate file contains material information obtainable from the MP database, where the 'Structure' item will be used for generating structure descriptors in subsequent steps.
+
+4. ./Output/X_Com_Descriptor.csv
+
+XenonPy composition descriptor
+
+5. /Output/X_Str_Descriptor.csv
+
+XenonPy structure descriptor
+

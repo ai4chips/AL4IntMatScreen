@@ -1,0 +1,5 @@
+Seed,MAE,Param
+1326,-0.5031810406189345,"{'n_estimators': 45, 'max_depth': 12}"
+1327,-0.8926651396926862,"{'n_estimators': 50, 'max_depth': 50}"
+1328,-0.5043174962129193,"{'n_estimators': 20, 'max_depth': 19}"
+1329,-0.6659595880398106,"{'n_estimators': 8, 'max_depth': 7}"

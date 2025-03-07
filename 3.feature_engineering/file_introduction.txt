@@ -1,0 +1,16 @@
+1. Feature_Engineering.py
+
+Remove descriptors with zero variance, then perform PCA (Principal Component Analysis) for dimensionality reduction.
+
+2. Origin_descriptors.csv
+
+This file consolidates the previously generated composition descriptors and structure descriptors, while also removing materials with missing entries. The remaining materials will constitute the entire dataset for future active learning tasks.
+
+3. descriptors_varience_not_zero.csv
+
+As described in the file name
+
+4. descriptors_after_PCA.csv
+
+As described in the file name
+

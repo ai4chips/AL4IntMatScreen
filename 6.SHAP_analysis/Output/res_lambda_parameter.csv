@@ -1,0 +1,11 @@
+Seed,MAE,Param
+255,-0.5988312116743635,"{'n_estimators': 98, 'max_depth': 12}"
+256,-0.4422512721721119,"{'n_estimators': 6, 'max_depth': 11}"
+257,-0.4649546021083243,"{'n_estimators': 6, 'max_depth': 33}"
+258,-0.6507405846755847,"{'n_estimators': 88, 'max_depth': 11}"
+259,-0.6143697269500258,"{'n_estimators': 48, 'max_depth': 50}"
+260,-0.8790022302604739,"{'n_estimators': 11, 'max_depth': 13}"
+261,-0.5949550093833956,"{'n_estimators': 38, 'max_depth': 23}"
+262,-0.49291578348967247,"{'n_estimators': 15, 'max_depth': 31}"
+263,-0.6504029589586104,"{'n_estimators': 37, 'max_depth': 5}"
+264,-0.8263549127182556,"{'n_estimators': 7, 'max_depth': 27}"

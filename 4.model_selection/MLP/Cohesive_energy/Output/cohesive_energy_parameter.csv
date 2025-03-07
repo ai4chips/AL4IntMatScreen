@@ -1,0 +1,11 @@
+Seed,MAE,Param
+0,-0.9249249984864706,"{'hidden_layer_size_0': 47, 'hidden_layer_size_1': 34, 'hidden_layer_size_2': 42}"
+1,-0.9595346231950309,"{'hidden_layer_size_0': 44, 'hidden_layer_size_1': 36, 'hidden_layer_size_2': 34}"
+2,-0.9552548478787461,"{'hidden_layer_size_0': 32, 'hidden_layer_size_1': 38, 'hidden_layer_size_2': 25}"
+3,-0.9154955879595837,"{'hidden_layer_size_0': 45, 'hidden_layer_size_1': 46, 'hidden_layer_size_2': 11}"
+4,-0.9502131406726733,"{'hidden_layer_size_0': 46, 'hidden_layer_size_1': 40, 'hidden_layer_size_2': 23}"
+5,-0.8715677065319908,"{'hidden_layer_size_0': 33, 'hidden_layer_size_1': 29, 'hidden_layer_size_2': 43}"
+6,-0.9473138567267098,"{'hidden_layer_size_0': 33, 'hidden_layer_size_1': 41, 'hidden_layer_size_2': 2}"
+7,-0.943162644468035,"{'hidden_layer_size_0': 46, 'hidden_layer_size_1': 10, 'hidden_layer_size_2': 32}"
+8,-0.9448251676161458,"{'hidden_layer_size_0': 40, 'hidden_layer_size_1': 5, 'hidden_layer_size_2': 8}"
+9,-0.9506075409116665,"{'hidden_layer_size_0': 49, 'hidden_layer_size_1': 17, 'hidden_layer_size_2': 19}"

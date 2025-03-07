@@ -1,0 +1,2 @@
+seed = 540
+n_estimators=36, max_depth=17 ,random_state = seed

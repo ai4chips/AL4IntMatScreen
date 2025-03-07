@@ -1,0 +1,6 @@
+1.SHAPValue.py
+
+Contains the model used to calculate SHAP values and the calculation procedure
+
+2. data.csv
+Descriptors and ρλ results for constructing models

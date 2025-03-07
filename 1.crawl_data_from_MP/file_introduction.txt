@@ -1,0 +1,17 @@
+1. crawl_data_from_MP.py
+
+ You can use this code file to query binary intermetallic compounds on the Material Project data website. As the database on this website is constantly updated, the number of materials found each time you run it may vary slightly. The screening basis is the elements you are interested in, such as Al, Fe, Cu. You will find relevant materials of the Al-Fe, Al-Cu, and Fe-Cu systems.
+
+
+2. all_material_3_7_2025.csv
+
+Before uploading, we tested the code. This file shows the running result of March 7, 2025.
+
+
+3. material_id.csv
+
+The running result of this code at the time of project initiation
+
+4. initial_dataset.csv
+
+The initial dataset mentioned in the paper contains 352 materials and their DFT calculation results.

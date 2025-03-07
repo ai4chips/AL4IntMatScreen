@@ -1,0 +1,3 @@
+seed = 120 
+n_estimators = 65
+max_depth = 50

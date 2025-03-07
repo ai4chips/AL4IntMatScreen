@@ -1,0 +1,44 @@
+1.  Inside the main folder, there are seven subfolders named after machine learning algorithms: GPR (Gaussian Process Regression), LASSO (Least Absolute Shrinkage and Selection Operator), LR (Linear Regression), RFR (Random Forest Regression), MLP (Multilayer Perceptron), Ridge (Ridge Regression), and SVM (Support Vector Machine). Each of these algorithm-specific folders contains two additional subfolders:
+
+	GPR 
+
+		Cohesive_energy
+
+			Contains the process and results of optimizing the GPR model's hyperparameters for predicting the cohesive energy of 				materials.
+
+
+		res_lambda
+
+			Contains the process and results of optimizing the GPR model's hyperparameters for predicting the ρλ of materials.
+
+	LASSO 
+		Cohesive_energy
+
+				Contains the process and results of optimizing the LASSO model's hyperparameters for predicting the cohesive energy.
+		res_lambda
+
+				Contains the process and results of optimizing the LASSO model's hyperparameters for predicting ρλ.
+
+   ...
+   ...
+   ...
+
+2.  Inside the RFR/res_lambda/ folder, we have provided the optimal parameters that were identified during the hyperparameter optimization process. These parameters enable you to reproduce the model that achieved the best performance in predicting ρλ at this stage of our study.
+
+seed = 540
+n_estimators=36, max_depth=17 ,random_state = seed
+R2 on test set = 0.81
+R2 on train set = 0.92
+
+3.  Inside the SVM/Cohesive_energy/folder, we have provided the optimal parameters that were identified during the hyperparameter optimization process. These parameters enable you to reproduce the model that achieved the best performance in predicting ρλ at this stage of our study.
+
+Seed = 239  parameter {'C': 1.4899967407754549, 'epsilon': 0.0015037679299371588, 'gamma': 0.014375540167243534}
+R2 on test set = 0.97
+R2 on train set = 0.97
+
+
+
+
+
+
+
